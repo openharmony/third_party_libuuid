@@ -19,6 +19,7 @@
     ],
     "envs": {},
     "dirs": {},
+    "licensePath": "uuid/COPYING",
     "segment": {
         "destPath": "third_party/libuuid"
     },
