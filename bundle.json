@@ -1,0 +1,34 @@
+{
+    "name": "@ohos/libuuid",
+    "description": "Portable uuid C library",
+    "version": "3.1",
+    "license": "BSD 3-Clause",
+    "publishAs": "code-segment",
+    "segment": {
+        "destPath": "third_party/libuuid"
+    },
+    "dirs": {},
+    "scripts": {},
+    "licensePath": "uuid/COPYING",
+    "readmePath": {
+        "en": ""
+    },
+    "component": {
+        "name": "thirdparty_libuuid",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "deps": {
+            "components": [],
+            "third_party": []
+        },
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
